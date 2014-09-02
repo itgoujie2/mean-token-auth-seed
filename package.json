@@ -1,0 +1,12 @@
+{
+	"name" : "mean-token-auth-seed",
+	"dependencies" : {
+		"express" : "latest",
+		"mongoose" : "latest",
+		"morgan" : "latest",
+		"nconf" : "latest",
+		"body-parser" : "latest",
+		"passport" : "latest",
+		"passport-local" : "latest"
+	}
+}
